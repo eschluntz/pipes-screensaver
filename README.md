@@ -2,7 +2,7 @@
 # pipes-screensaver
 A re-creation of the classic Windows 3D "Pipes" screensaver, written entirely by Claude 3.5 Sonnet, over many iterations!
 
-<iframe src="https://eschluntz.github.io/pipe-screensaver.html" width="600" height="400" frameborder="0"></iframe>
+You can check out the [full page version here](https://eschluntz.github.io/pipe-screensaver.html)
 
 ## Start simple and iterate
 
