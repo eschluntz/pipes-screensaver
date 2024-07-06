@@ -2,7 +2,7 @@
 # pipes-screensaver
 A re-creation of the classic Windows 3D "Pipes" screensaver, written entirely by Claude 3.5 Sonnet, over many iterations!
 
-You can check out the [full page version here](https://eschluntz.github.io/pipe-screensaver.html)
+View the [live page here](https://eschluntz.github.io/pipe-screensaver.html)
 
 ## Start simple and iterate
 
@@ -57,6 +57,8 @@ This is the real magic of LLMs for me - in a single command and about 10s Claude
 ![](imgs/bug1.png)
 
 Now of course there are some new bugs that I had to debug with claude. In particular, getting the curves and ball joints (especially at the boundary edges) just right took many iterations.
+
+View the [live page here](https://eschluntz.github.io/pipe-screensaver.html)
 
 Overall, this felt like the future of what programming will be: 
 - Much less writing code
