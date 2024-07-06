@@ -2,6 +2,8 @@
 # pipes-screensaver
 A re-creation of the classic Windows 3D "Pipes" screensaver, written entirely by Claude 3.5 Sonnet, over many iterations!
 
+<iframe src="https://eschluntz.github.io/pipe-screensaver.html" width="600" height="400" frameborder="0"></iframe>
+
 ## Start simple and iterate
 
 My main approach when coding with LLMs is to start with as detailed a spec as possible, often created in part with the LLM.
